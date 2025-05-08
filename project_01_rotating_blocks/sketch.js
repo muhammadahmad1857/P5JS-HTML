@@ -1,5 +1,5 @@
 let angle = 0;
-let distMouse = 20;
+let distMouse = 200;
 let size = 10;
 let cols = 4;
 let rows = 4;
